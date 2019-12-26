@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+from Field import Field
+
+def main():
+    print("hello world")
+    field = Field()
+    print(field[0][0])
+
+if __name__ == "__main__":
+    main()
